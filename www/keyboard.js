@@ -19,7 +19,7 @@
  *
 */
 
-/*var argscheck = require('cordova/argscheck'),
+var argscheck = require('cordova/argscheck'),
     utils = require('cordova/utils'),
     exec = require('cordova/exec');
    
@@ -115,4 +115,4 @@ Keyboard.isVisible = false;
 Keyboard.automaticScrollToTopOnHiding = false;
 
 module.exports = Keyboard;
-*/
+
